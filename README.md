@@ -1,5 +1,5 @@
 # Logica de programación 
-Código y ejercicio del curso Programación para principiantes - primeros pasos de Fernando Herrera en Udemy
+Código y ejercicios del curso Programación para principiantes - primeros pasos de Fernando Herrera en Udemy
 
 ## Contenido
 
